@@ -64,24 +64,24 @@ include 'config.php';
 
 <!-- Info panel -->
 <div class="row justify-content-center">
-  <div class="col-10 info-panel">
-	<div class="row">
-	  <div class="col-lg">
-		<img src="img/4.png" alt="employee" class="float-left">
-		<h4>Cart</h4>
-		<p>Belanjalah kebutuhan anda bersama kami</p>
-	  </div>
-	  <div class="col-lg">
-		<img src="img/5.png" alt="High Res"class="float-left">
-		<h4>Cashier Machine</h4>
-		<p>Dengan mesin kasir berbasis online memudahkan transaksi</p>
-	  </div>
-	  <div class="col-lg">
-		<img src="img/6.png" alt="Security"class="float-left">
-		<h4>Price</h4>
-		<p>Harga murah dengan kualitas terbaik</p>
-	  </div>
-	</div>
+        <div class="col-10 info-panel">
+          <div class="row">
+            <div class="col-lg">
+              <a href="pemesanan.php"><img src="img/4.png" alt="employee" class="float-left"></a>
+              <h4>Cart</h4>
+              <p>Belanjalah kebutuhan anda bersama kami</p>
+            </div>
+            <div class="col-lg">
+              <img src="img/5.png" alt="High Res"class="float-left">
+              <h4>Cashier Machine</h4>
+              <p>Dengan mesin kasir berbasis online memudahkan transaksi</p>
+            </div>
+            <div class="col-lg">
+              <img src="img/6.png" alt="Security"class="float-left">
+              <h4>Price</h4>
+              <p>Harga murah dengan kualitas terbaik</p>
+            </div>
+          </div>
 
 
   </div>

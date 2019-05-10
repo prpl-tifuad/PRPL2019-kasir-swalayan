@@ -61,7 +61,7 @@
 }
 .tabel{
     margin: 0 auto;
-    margin-top: 
+    margin-top: 0;
 }
 
 /* Info panel */
@@ -71,6 +71,7 @@
     margin-top: -100px;
     background-color: white;
     padding: 30px;
+    color: black;
 }
 
 .info-panel img{
@@ -205,4 +206,5 @@
     .testimonial h5{
         font-size: 32px;
     }
+    
     }
